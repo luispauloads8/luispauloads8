@@ -1,6 +1,6 @@
 ### Olá! Eu sou Luis Paulo de Castro ✌️
 
-![Luis Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=luispauloads8&show_icons=true&theme=dracula)
+![Luis Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=luispauloads8&show_icons=true&theme=dracula) ![Luis Paulo GitHub stats](https://streak-stats.demolab.com?user=luispauloads8&locale=en&mode=weekly&theme=algolia&hide_border=false&border_radius=5&order=3)
 
 
 ### Tecnologias
